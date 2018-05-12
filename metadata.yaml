@@ -1,0 +1,42 @@
+_repo: '-----------------------------------3--13-----------------------------------------------------__42700'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rankaves, Alexandros Rizos
+    aliases:
+    - Rankaves, A. R. (Alexandros Rizos)
+    - Ραγκαβής, Αλέξανδρος Ρίζος
+    - Rankabes, Alexandros Rizos
+    - Rangavis, Alexandros
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '41696'
+    url: http://www.gutenberg.org/2009/agents/41696
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%A1%CE%AF%CE%B6%CE%BF%CF%82_%CE%A1%CE%B1%CE%B3%CE%BA%CE%B1%CE%B2%CE%AE%CF%82
+covers:
+- cover_type: archival
+  image_path: 42700-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2013-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42700'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+title: "Πλουτάρχου Βίοι Παράλληλοι - Τόμος 3\r\nΑλκιβιάδης - Κοριολάνος - Τιμολέων\
+  \ - Αιμίλιος Παύλος - Πελοπίδας - Μάρκελλος"
+url: http://www.gutenberg.org/ebooks/42700
